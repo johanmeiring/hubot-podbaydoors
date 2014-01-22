@@ -18,4 +18,4 @@ Run the following command to make sure the module is installed.
 
 To enable the script, add the `hubot-podbaydoors` entry to the `external-scripts.json` file (you may need to create this file).
 
-    ["hubot-business-cat"]
+    ["hubot-podbaydoors"]
