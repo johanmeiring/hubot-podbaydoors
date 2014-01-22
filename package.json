@@ -1,0 +1,39 @@
+{
+  "name": "hubot-podbaydoors",
+  "version": "1.0.0",
+  "description": "HAL (i.e. hubot) cannot open the pod bay doors...",
+  "main": "index.coffee",
+  "author": {
+    "name": "Johan Meiring",
+    "email": "johanmeiring@gmail.com",
+    "url": "https://github.com/johanmeiring"
+  },
+  "keywords": [
+    "hubot",
+    "hubot-scripts",
+    "hal",
+    "pod"
+  ],
+  "license": "MIT",
+  "scripts": {
+    "test": "script/test"
+  },
+  "homepage": "https://github.com/johanmeiring/hubot-podbaydoors/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/johanmeiring/hubot-podbaydoors.git"
+  },
+  "bugs": {
+    "url": "https://github.com/johanmeiring/hubot-podbaydoors/issues"
+  },
+  "dependencies": {
+    "hubot": ">= 2.4.0",
+    "coffee-script": "~1.6"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "chai": "*",
+    "sinon-chai": "*",
+    "sinon": "*"
+  }
+}
